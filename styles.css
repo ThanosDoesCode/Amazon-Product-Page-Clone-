@@ -1,0 +1,39 @@
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 350px;
+}
+
+.ratings{
+    width: 125px;
+}
+
+.flexbox-container{
+    display: flex;
+}
+
+.right-side{
+    margin: 10px;
+}
+
+.left-side{
+    color: #565959;
+    margin: 10px;
+}
+
+.left-side a{
+    color: #565959;
+    text-decoration: none;
+}
+
+.right-side a{
+    color: #007185;
+}
